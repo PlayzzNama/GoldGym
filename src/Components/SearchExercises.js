@@ -36,7 +36,7 @@ function SearchExercises() {
             right: '0'
           }}  
         >
-            Search
+            Searc
         </Button>
       </Box>
     </Stack>
