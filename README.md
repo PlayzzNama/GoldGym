@@ -40,4 +40,4 @@ Name: Ivan Popovych;
 Ampli group: AFE_44;
 
 Project LINK:
-https://goldgym-yuk9.onrender.com/
+https://goldgym-yuk9.onrender.com/;
