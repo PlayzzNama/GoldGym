@@ -1,12 +1,12 @@
-Name project: Gold Gym
+### Name project: Gold Gym
 
-Used libraries:
+### Used libraries:
 -MUI (Material UI);
 -React router dom;
 -React horizontal scrolling menu;
 -React loader spinner.
 
-Components:
+### Components:
 -BodyPart;
 -Detail;
 -ExerciseCard;
@@ -22,22 +22,22 @@ Components:
 -SimilarExercises;
 -Social.
 
-Pages:
+### Pages:
 -AboutMe;
 -ExercisesDetail;
 -Home.
 
-Used API`s:
+### Used API`s:
 -ExerciseDB (Link: https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb)
 -YouTube Search and Download (Link: https://rapidapi.com/h0p3rwe/api/youtube-search-and-download)
 
-Used Documentation:
+### Used Documentation:
 -MUI Documentation;
 -Wiki (for MVP)
 
-Info About Author:
+### Info About Author:
 Name: Ivan Popovych;
 Ampli group: AFE_44;
 
-Project LINK:
+### Project LINK:
 https://goldgym-yuk9.onrender.com/;
